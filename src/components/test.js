@@ -12,14 +12,14 @@ const data = [
         "answer": "indirecto perro y cerdo ,hombre cerdo"
     },
     {
-        "question": "Hola como es el diagnostico de toxoplasma gondi",
+        "question": "Como es el diagnostico de toxoplasma gondi",
         "answer": "gold stand en humano es sabin y feldman , en perros ifi , elisa y aglutinacion directa"
     },{
-        "question": "Hola 5cual es el diagnostico de cisticercus celulosae en porcinos",
+        "question": "Cual es el diagnostico de cisticercus celulosae en porcinos",
         "answer": "criterio sanitario con inspeccion de musculos macetero , diafragma intercostales , triceps , lengua y esofago"
     },
     {
-        "question": "Hola 6como es la transmicion de cisticercus celulosae",
+        "question": "Como es la transmicion de cisticercus celulosae",
         "answer": "ano/mano/boca , agua o comida contaminada con kk humana , autoinfeccion por peristaltismo retrogado"
     },
     {
@@ -77,7 +77,7 @@ const data = [
     {
         "question": "cual es el ciclo de los spiruridios del cerdos",
         "answer": "indirecto , el hd es el cerdo y el hi el escarabjo coprofago"
-    }
+    },
     {
         "question": "dx de ascarops strongylina y physocephalus sexalatus",
         "answer": "flotacion , huevo larvado de 40micras , necropsia de raspado de mucosa"
